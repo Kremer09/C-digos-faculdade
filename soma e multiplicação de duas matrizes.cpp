@@ -50,7 +50,7 @@ main(){
 	}
     else printf("Nao e possivel somar");
     
-    //multiplicação das matrizes;
+    //multiplicaÃ§Ã£o das matrizes;
     if(c1==l2){
     	for(i=0;i<l1;i++)
     	for(j=0;j<c2;j++)
@@ -63,7 +63,7 @@ main(){
     	    for(j=0;j<c2;j++)
     	        printf("%3i",m4[i][j]);
     	        printf("\n");
-					}
-	}
+	    }
+     }
 	else printf("Nao ha como multiplicar");
 }
